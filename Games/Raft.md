@@ -9,7 +9,10 @@
 
 | Mod | GitHub | RaftModding | License
 |:---:|:------:|:-----------:|:-------:
-| `HealthSetter` | [![Button GitHub]][GitHub HealthSetter] | [![Button RaftModding]][RaftModding HealthSetter] | <kbd>  AGPLv3  </kbd>
+| `Health Setter` | [![Button GitHub]][GitHub Health Setter] | [![Button RaftModding]][RaftModding Health Setter] | <kbd>  AGPLv3  </kbd>
+| `Bulk Crafting` | [![Button GitHub]][GitHub Bulk Crafting] | [![Button RaftModding]][RaftModding Bulk Crafting] | <kbd>  AGPLv3  </kbd>
+| `Custom Moving Speed` | [![Button GitHub]][GitHub Custom Moving Speed] | [![Button RaftModding]][RaftModding Custom Moving Speed] | <kbd>  AGPLv3  </kbd>
+| `Swim Sprint` | [![Button GitHub]][GitHub Swim Sprint] | [![Button RaftModding]][RaftModding Swim Sprint] | <kbd>  ???  </kbd>
 
 <br>
 
@@ -18,9 +21,15 @@
 
 [Raft]: https://raft-game.com/
 
-[RaftModding HealthSetter]: https://www.raftmodding.com/mods/health-setter
+[GitHub Custom Moving Speed]: https://github.com/KenjieDec/CustomMovingSpeed
+[GitHub Bulk Crafting]: https://github.com/thmsndk/Raft-BulkCrafting
+[GitHub Health Setter]: https://github.com/derfuxde/healthsetter
+[GitHub Swim Sprint]: https://github.com/KenjieDec/SwimSprint
 
-[GitHub HealthSetter]: https://github.com/derfuxde/healthsetter
+[RaftModding Custom Moving Speed]: https://www.raftmodding.com/mods/custommovingspeed
+[RaftModding Health Setter]: https://www.raftmodding.com/mods/health-setter
+[RaftModding Bulk Crafting]: https://www.raftmodding.com/mods/bulk-crafting
+[RaftModding Swim Sprint]: https://www.raftmodding.com/mods/swimsprint
 
 
 <!---------------------------------[ Buttons ]--------------------------------->
