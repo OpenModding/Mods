@@ -1,6 +1,6 @@
 
 import { fromFileUrl , join , dirname , basename } from 'Path'
-import { parse } from 'YAML'
+import { parse , stringify } from 'YAML'
 import { walk } from 'FileSystem'
 
 
@@ -13,8 +13,10 @@ const folder = dirname(fromFileUrl(import.meta.url));
 const root = join(folder,'..');
 
 const data = join(root,'Data');
-const games = join(root,'Games');
+const path_games = join(root,'Games');
+const stats = join(data,'_Count.yaml');
 
+let games = 0,modcount = 0;
 
 for await (const entry of walk(data,{
     includeFiles : true ,
@@ -23,6 +25,9 @@ for await (const entry of walk(data,{
 })){
     
     const { path } = entry;
+    
+    if(path.endsWith('_Count.yaml'))
+        continue;
     
     const yaml = await readTextFile(path);
     const data = parse(yaml);
@@ -52,6 +57,8 @@ for await (const entry of walk(data,{
             platform = 'GitLab';
         
         mods.push({ name , license , platform });
+        
+        modcount++;
     });
     
     
@@ -83,7 +90,7 @@ for await (const entry of walk(data,{
     }
     
     
-    const markdown_path = join(games,basename(path).slice(0,-4) + 'md');
+    const markdown_path = join(path_games,basename(path).slice(0,-4) + 'md');
     log(markdown_path)
     const markdown = await readTextFile(markdown_path);
     
@@ -105,4 +112,11 @@ for await (const entry of walk(data,{
     });
     
     writeTextFile(markdown_path,converted);
+    
+    games++;
 }
+
+
+writeTextFile(stats,stringify({
+    mods : modcount , games
+}));
