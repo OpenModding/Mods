@@ -12,14 +12,15 @@
 
 | Mod | GitHub | RaftModding | License
 |:---:|:------:|:-----------:|:-------:
+~Table
 | `Health Setter` | [![Button GitHub]][GitHub Health Setter] | [![Button RaftModding]][RaftModding Health Setter] | <kbd>  AGPLv3  </kbd>
 | `Bulk Crafting` | [![Button GitHub]][GitHub Bulk Crafting] | [![Button RaftModding]][RaftModding Bulk Crafting] | <kbd>  AGPLv3  </kbd>
 | `Custom Moving Speed` | [![Button GitHub]][GitHub Custom Moving Speed] | [![Button RaftModding]][RaftModding Custom Moving Speed] | <kbd>  AGPLv3  </kbd>
 | `Swim Sprint` | [![Button GitHub]][GitHub Swim Sprint] | [![Button RaftModding]][RaftModding Swim Sprint] | <kbd>  ???  </kbd>
-| `Augmented Equipment` | [![Button GitLab]][GitLab Augmented Equipment] | [![Button RaftModding]][RaftModding Augmented Equipment] | <kbd>  ???  </kbd>
+| `Augmented Equipment` | [![Button GitHub]][GitHub Augmented Equipment] | [![Button RaftModding]][RaftModding Augmented Equipment] | <kbd>  ???  </kbd>
 | `Quick Stack Inventory` | [![Button GitHub]][GitHub Quick Stack Inventory] | [![Button RaftModding]][RaftModding Quick Stack Inventory] | <kbd>  AGPLv3  </kbd>
-| `Lantern Physics` | [![Button GitHub]][GitHub Lantern Physics] | [![Button RaftModding]][RaftModding Lantern Physics] | <kbd>  AGPLv3  </kbd>
 | `Alternate Recipes` | [![Button GitHub]][GitHub Alternate Recipes] | [![Button RaftModding]][RaftModding Alternate Recipes] | <kbd>  AGPLv3  </kbd>
+| `Quick Stack Inventory` | [![Button GitHub]][GitHub Quick Stack Inventory] | [![Button RaftModding]][RaftModding Quick Stack Inventory] | <kbd>  AGPLv3  </kbd>
 
 <br>
 
@@ -28,24 +29,32 @@
 
 [Raft]: https://raft-game.com/
 
-[GitHub Quick Stack Inventory]: https://github.com/MahmoudOkasha17/QuickStackInventory
-[GitHub Custom Moving Speed]: https://github.com/KenjieDec/CustomMovingSpeed
-[GitHub Alternate Recipes]: https://github.com/Phantom139/RaftAlternateRecipes
-[GitHub Lantern Physics]: https://github.com/FZ-Applications/raft-lantern-physics-mod
-[GitHub Bulk Crafting]: https://github.com/thmsndk/Raft-BulkCrafting
-[GitHub Health Setter]: https://github.com/derfuxde/healthsetter
-[GitHub Swim Sprint]: https://github.com/KenjieDec/SwimSprint
+~GitHub
+[GitHub Health Setter]: derfuxde/healthsetter
+[GitHub Bulk Crafting]: thmsndk/Raft-BulkCrafting
+[GitHub Custom Moving Speed]: KenjieDec/CustomMovingSpeed
+[GitHub Swim Sprint]: KenjieDec/SwimSprint
+[GitHub Quick Stack Inventory]: MahmoudOkasha17/QuickStackInventory
+[GitHub Alternate Recipes]: MahmoudOkasha17/QuickStackInventory
+[GitHub Quick Stack Inventory]: FZ-Applications/raft-lantern-physics-mod
 
-[GitLab Augmented Equipment]: https://gitlab.com/yunjang/augmented-equipment
+~GitLab
+[GitLab Health Setter]: derfuxde/healthsetter
+[GitLab Bulk Crafting]: thmsndk/Raft-BulkCrafting
+[GitLab Custom Moving Speed]: KenjieDec/CustomMovingSpeed
+[GitLab Swim Sprint]: KenjieDec/SwimSprint
+[GitLab Quick Stack Inventory]: MahmoudOkasha17/QuickStackInventory
+[GitLab Alternate Recipes]: MahmoudOkasha17/QuickStackInventory
+[GitLab Quick Stack Inventory]: FZ-Applications/raft-lantern-physics-mod
 
-[RaftModding Quick Stack Inventory]: https://www.raftmodding.com/mods/quick-stack-inventory
-[RaftModding Custom Moving Speed]: https://www.raftmodding.com/mods/custommovingspeed
-[RaftModding Augmented Equipment]: https://www.raftmodding.com/mods/augmented-equipment
-[RaftModding Alternate Recipes]: https://www.raftmodding.com/mods/alternate-recipes
-[RaftModding Lantern Physics]: https://www.raftmodding.com/mods/lantern-physics
-[RaftModding Health Setter]: https://www.raftmodding.com/mods/health-setter
-[RaftModding Bulk Crafting]: https://www.raftmodding.com/mods/bulk-crafting
-[RaftModding Swim Sprint]: https://www.raftmodding.com/mods/swimsprint
+~RaftModding
+[RaftModding Health Setter]: derfuxde/healthsetter
+[RaftModding Bulk Crafting]: thmsndk/Raft-BulkCrafting
+[RaftModding Custom Moving Speed]: KenjieDec/CustomMovingSpeed
+[RaftModding Swim Sprint]: KenjieDec/SwimSprint
+[RaftModding Quick Stack Inventory]: MahmoudOkasha17/QuickStackInventory
+[RaftModding Alternate Recipes]: MahmoudOkasha17/QuickStackInventory
+[RaftModding Quick Stack Inventory]: FZ-Applications/raft-lantern-physics-mod
 
 
 <!---------------------------------[ Buttons ]--------------------------------->

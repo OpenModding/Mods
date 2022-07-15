@@ -1,0 +1,56 @@
+
+-   name : Health Setter
+    
+    raftmodding : health-setter
+    license : AGPLv3
+    github : derfuxde/healthsetter
+
+
+-   name : Bulk Crafting
+    
+    raftmodding : bulk-crafting
+    license : AGPLv3
+    github : thmsndk/Raft-BulkCrafting
+
+
+-   name : Custom Moving Speed
+    
+    raftmodding : custommovingspeed
+    license : AGPLv3
+    github : KenjieDec/CustomMovingSpeed
+
+
+-   name : Swim Sprint
+    
+    raftmodding : swimsprint
+    license : ???
+    github : KenjieDec/SwimSprint
+
+
+-   name : Augmented Equipment
+    
+    raftmodding : augmented-equipment
+    license : ???
+    gitlab : yunjang/augmented-equipment
+
+
+-   name : Quick Stack Inventory
+    
+    raftmodding : quick-stack-inventory
+    license : AGPLv3
+    github : MahmoudOkasha17/QuickStackInventory
+    
+
+-   name : Alternate Recipes
+    
+    raftmodding : alternate-recipes
+    license : AGPLv3
+    github : MahmoudOkasha17/QuickStackInventory
+    
+
+-   name : Quick Stack Inventory
+    
+    raftmodding : lantern-physics
+    license : AGPLv3
+    github : FZ-Applications/raft-lantern-physics-mod
+    
