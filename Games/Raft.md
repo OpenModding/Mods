@@ -57,6 +57,25 @@
 | `Trees Drops Seeds: Reanimated` | [![Button GitHub]][GitHub Trees Drops Seeds: Reanimated] | [![Button RaftModding]][RaftModding Trees Drops Seeds: Reanimated] | <kbd>  AGPLv3  </kbd>
 | `Antenna Anywhere` | [![Button GitHub]][GitHub Antenna Anywhere] | [![Button RaftModding]][RaftModding Antenna Anywhere] | <kbd>  MIT  </kbd>
 | `Ctrl Shift Move` | [![Button GitLab]][GitLab Ctrl Shift Move] | [![Button RaftModding]][RaftModding Ctrl Shift Move] | <kbd>  AGPLv3  </kbd>
+| `Ignore Build Collision` | [![Button GitHub]][GitHub Ignore Build Collision] | [![Button RaftModding]][RaftModding Ignore Build Collision] | <kbd>  AGPLv3  </kbd>
+| `Craft From Storage` | [![Button GitHub]][GitHub Craft From Storage] | [![Button RaftModding]][RaftModding Craft From Storage] | <kbd>  MIT  </kbd>
+| `BetterBowl` | [![Button GitLab]][GitLab BetterBowl] | [![Button RaftModding]][RaftModding BetterBowl] | <kbd>  AGPLv3  </kbd>
+| `Only Night` | [![Button GitLab]][GitLab Only Night] | [![Button RaftModding]][RaftModding Only Night] | <kbd>  ???  </kbd>
+| `Custom Weapon Damage` | [![Button GitHub]][GitHub Custom Weapon Damage] | [![Button RaftModding]][RaftModding Custom Weapon Damage] | <kbd>  ???  </kbd>
+| `Custom Growth Speed` | [![Button GitHub]][GitHub Custom Growth Speed] | [![Button RaftModding]][RaftModding Custom Growth Speed] | <kbd>  ???  </kbd>
+| `Utility Craft +` | [![Button GitHub]][GitHub Utility Craft +] | [![Button RaftModding]][RaftModding Utility Craft +] | <kbd>  ???  </kbd>
+| `Pause Mod` | [![Button GitHub]][GitHub Pause Mod] | [![Button RaftModding]][RaftModding Pause Mod] | <kbd>  GPLv3  </kbd>
+| `Longer Day Night Cycles` | [![Button GitHub]][GitHub Longer Day Night Cycles] | [![Button RaftModding]][RaftModding Longer Day Night Cycles] | <kbd>  MIT  </kbd>
+| `Mumble Link` | [![Button GitHub]][GitHub Mumble Link] | [![Button RaftModding]][RaftModding Mumble Link] | <kbd>  ???  </kbd>
+| `More Shark Bait` | [![Button GitHub]][GitHub More Shark Bait] | [![Button RaftModding]][RaftModding More Shark Bait] | <kbd>  ???  </kbd>
+| `More Rare Animals` | [![Button GitHub]][GitHub More Rare Animals] | [![Button RaftModding]][RaftModding More Rare Animals] | <kbd>  MIT  </kbd>
+| `Better Jars` | [![Button GitHub]][GitHub Better Jars] | [![Button RaftModding]][RaftModding Better Jars] | <kbd>  ???  </kbd>
+| `Custom Maximum Raft Speed` | [![Button GitHub]][GitHub Custom Maximum Raft Speed] | [![Button RaftModding]][RaftModding Custom Maximum Raft Speed] | <kbd>  MIT  </kbd>
+| `Inventory Persist` | [![Button GitHub]][GitHub Inventory Persist] | [![Button RaftModding]][RaftModding Inventory Persist] | <kbd>  GPLv3  </kbd>
+| `Find Raft Center` | [![Button GitHub]][GitHub Find Raft Center] | [![Button RaftModding]][RaftModding Find Raft Center] | <kbd>  ???  </kbd>
+| `Better Crop Plots` | [![Button GitHub]][GitHub Better Crop Plots] | [![Button RaftModding]][RaftModding Better Crop Plots] | <kbd>  ???  </kbd>
+| `Recycle Your Metal` | [![Button GitHub]][GitHub Recycle Your Metal] | [![Button RaftModding]][RaftModding Recycle Your Metal] | <kbd>  ???  </kbd>
+| `DevTools` | [![Button GitLab]][GitLab DevTools] | [![Button RaftModding]][RaftModding DevTools] | <kbd>  ???  </kbd>
 
 
 <br>
@@ -105,6 +124,22 @@
 [GitHub Preset Commands]: https://GitHub.com/Aidanamite/presetCommands
 [GitHub Trees Drops Seeds: Reanimated]: https://GitHub.com/Azzmurr/raft-mods/tree/master/trees-drops-seeds-reanimated
 [GitHub Antenna Anywhere]: https://GitHub.com/KevoSoftworks/AntennaAnywhere
+[GitHub Ignore Build Collision]: https://GitHub.com/soggylithe/IgnoreBuildCollision
+[GitHub Craft From Storage]: https://GitHub.com/Azzmurr/raft-mods/tree/master/craft-from-storage
+[GitHub Custom Weapon Damage]: https://GitHub.com/traxam/raft-customweapondamage-mod
+[GitHub Custom Growth Speed]: https://GitHub.com/traxam/raft-customgrowthspeed-mod
+[GitHub Utility Craft +]: https://GitHub.com/SWiRaki/UtilCraftPlus
+[GitHub Pause Mod]: https://GitHub.com/Echo343/PauseMod
+[GitHub Longer Day Night Cycles]: https://GitHub.com/janniksam/RaftMod.LongerDayNightCycles
+[GitHub Mumble Link]: https://GitHub.com/jeffpeterson/RaftMumbleLink
+[GitHub More Shark Bait]: https://GitHub.com/camarril/MoreSharkBait
+[GitHub More Rare Animals]: https://GitHub.com/janniksam/RaftMod.MoreRareAnimals
+[GitHub Better Jars]: https://GitHub.com/0xN0x/raft-betterjars-mod
+[GitHub Custom Maximum Raft Speed]: https://GitHub.com/janniksam/RaftMod.CustomMaxRaftSpeed
+[GitHub Inventory Persist]: https://GitHub.com/scwheele/invpersist
+[GitHub Find Raft Center]: https://GitHub.com/camarril/FindRaftCenter
+[GitHub Better Crop Plots]: https://GitHub.com/0xN0x/raft-bettercropplot-mod
+[GitHub Recycle Your Metal]: https://GitHub.com/0xN0x/raft-recycleyourmetal-mod
 
 
 <!-- > GitLab -->
@@ -114,6 +149,9 @@
 [GitLab Custom Tool Speed]: https://GitLab.com/traxam/raft-customtoolspeed-mod
 [GitLab Augmented Items]: https://GitLab.com/yunjang/augmented-items
 [GitLab Ctrl Shift Move]: https://GitLab.com/yunjang/ctrl-shift-move
+[GitLab BetterBowl]: https://GitLab.com/traxam/raft-betterbowl-mod
+[GitLab Only Night]: https://GitLab.com/traxam/raft-onlynight-mod
+[GitLab DevTools]: https://GitLab.com/traxam/raft-devtoolsmod
 
 
 <!-- > RaftModding -->
@@ -161,6 +199,25 @@
 [RaftModding Trees Drops Seeds: Reanimated]: https://www.raftmodding.com/mods/trees-drops-seeds-reanimated
 [RaftModding Antenna Anywhere]: https://www.raftmodding.com/mods/antenna-anywhere
 [RaftModding Ctrl Shift Move]: https://www.raftmodding.com/mods/ctrl-shift-move
+[RaftModding Ignore Build Collision]: https://www.raftmodding.com/mods/ignore-build-collision
+[RaftModding Craft From Storage]: https://www.raftmodding.com/mods/craft-from-storage
+[RaftModding BetterBowl]: https://www.raftmodding.com/mods/betterbowl
+[RaftModding Only Night]: https://www.raftmodding.com/mods/onlynight
+[RaftModding Custom Weapon Damage]: https://www.raftmodding.com/mods/customweapondamage
+[RaftModding Custom Growth Speed]: https://www.raftmodding.com/mods/customgrowthspeed
+[RaftModding Utility Craft +]: https://www.raftmodding.com/mods/utility-craft-plus
+[RaftModding Pause Mod]: https://www.raftmodding.com/mods/pausemod
+[RaftModding Longer Day Night Cycles]: https://www.raftmodding.com/mods/longerdaynightcycles
+[RaftModding Mumble Link]: https://www.raftmodding.com/mods/mumble-link
+[RaftModding More Shark Bait]: https://www.raftmodding.com/mods/moresharkbait
+[RaftModding More Rare Animals]: https://www.raftmodding.com/mods/morerareanimals
+[RaftModding Better Jars]: https://www.raftmodding.com/mods/better-jars
+[RaftModding Custom Maximum Raft Speed]: https://www.raftmodding.com/mods/custommaxraftspeed
+[RaftModding Inventory Persist]: https://www.raftmodding.com/mods/invpersist
+[RaftModding Find Raft Center]: https://www.raftmodding.com/mods/findraftcenter
+[RaftModding Better Crop Plots]: https://www.raftmodding.com/mods/better-cropplots
+[RaftModding Recycle Your Metal]: https://www.raftmodding.com/mods/recycle-your-metal
+[RaftModding DevTools]: https://www.raftmodding.com/mods/devtools
 
 
 

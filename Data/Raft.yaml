@@ -271,3 +271,115 @@
     gitlab : yunjang/ctrl-shift-move
 
 
+-   name : Ignore Build Collision
+    raftmodding : ignore-build-collision
+    license : AGPLv3
+    github : soggylithe/IgnoreBuildCollision
+
+
+-   name : Craft From Storage
+    raftmodding : craft-from-storage
+    license : MIT
+    github : Azzmurr/raft-mods/tree/master/craft-from-storage
+
+
+-   name : BetterBowl
+    raftmodding : betterbowl
+    license : AGPLv3
+    gitlab : traxam/raft-betterbowl-mod
+
+
+-   name : Only Night
+    raftmodding : onlynight
+    license : ???
+    gitlab : traxam/raft-onlynight-mod
+
+
+-   name : Custom Weapon Damage
+    raftmodding : customweapondamage
+    license : ???
+    github : traxam/raft-customweapondamage-mod
+
+
+-   name : Custom Growth Speed
+    raftmodding : customgrowthspeed
+    license : ???
+    github : traxam/raft-customgrowthspeed-mod
+
+
+-   name : Utility Craft +
+    raftmodding : utility-craft-plus
+    license : ???
+    github : SWiRaki/UtilCraftPlus
+
+
+-   name : Pause Mod
+    raftmodding : pausemod
+    license : GPLv3
+    github : Echo343/PauseMod
+
+
+-   name : Longer Day Night Cycles
+    raftmodding : longerdaynightcycles
+    license : MIT
+    github : janniksam/RaftMod.LongerDayNightCycles
+
+
+-   name : Mumble Link
+    raftmodding : mumble-link
+    license : ???
+    github : jeffpeterson/RaftMumbleLink
+
+
+-   name : More Shark Bait
+    raftmodding : moresharkbait
+    license : ???
+    github : camarril/MoreSharkBait
+
+
+-   name : More Rare Animals
+    raftmodding : morerareanimals
+    license : MIT
+    github : janniksam/RaftMod.MoreRareAnimals
+
+
+-   name : Better Jars
+    raftmodding : better-jars
+    license : ???
+    github : 0xN0x/raft-betterjars-mod
+
+
+-   name : Custom Maximum Raft Speed
+    raftmodding : custommaxraftspeed
+    license : MIT
+    github : janniksam/RaftMod.CustomMaxRaftSpeed
+
+
+-   name : Inventory Persist
+    raftmodding : invpersist
+    license : GPLv3
+    github : scwheele/invpersist
+
+
+-   name : Find Raft Center
+    raftmodding : findraftcenter
+    license : ???
+    github : camarril/FindRaftCenter
+
+
+-   name : Better Crop Plots
+    raftmodding : better-cropplots
+    license : ???
+    github : 0xN0x/raft-bettercropplot-mod
+
+
+-   name : Recycle Your Metal
+    raftmodding : recycle-your-metal
+    license : ???
+    github : 0xN0x/raft-recycleyourmetal-mod
+
+
+-   name : DevTools
+    raftmodding : devtools
+    license : ???
+    gitlab : traxam/raft-devtoolsmod
