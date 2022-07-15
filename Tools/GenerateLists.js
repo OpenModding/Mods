@@ -46,8 +46,12 @@ for await (const entry of walk(data,{
         if(gitlab)
             gitlabs.push({ name , link : gitlab });
         
+        let platform = 'GitHub';
         
-        mods.push({ name , license });
+        if(gitlab)
+            platform = 'GitLab';
+        
+        mods.push({ name , license , platform });
     });
     
     
@@ -59,8 +63,10 @@ for await (const entry of walk(data,{
     }
     
     function generateTable(){
-        return mods.map(({ name , license }) => {
-            return `| \`${ name }\` | [![Button GitHub]][GitHub ${ name }] | [![Button RaftModding]][RaftModding ${ name }] | <kbd>  ${ license }  </kbd>\n`;
+        return `| Mod | Repository | RaftModding | License\n` +
+        `|:---:|:------:|:-----------:|:-------:\n` + 
+        mods.map(({ name , license , platform }) => {
+            return `| \`${ name }\` | [![Button ${ platform }]][${ platform } ${ name }] | [![Button RaftModding]][RaftModding ${ name }] | <kbd>  ${ license }  </kbd>\n`;
         }).join('');
     }
     
@@ -69,11 +75,11 @@ for await (const entry of walk(data,{
     }
     
     function generateGitLab(){
-        return githubs.map(({ name , link }) => `[GitLab ${ name }]: https://GitLab.com/${ link }\n`).join('')
+        return gitlabs.map(({ name , link }) => `[GitLab ${ name }]: https://GitLab.com/${ link }\n`).join('')
     }
     
     function generateRaftModding(){
-        return githubs.map(({ name , link }) => `[RaftModding ${ name }]: https://www.raftmodding.com/mods/${ link }\n`).join('')
+        return raftmoddings.map(({ name , link }) => `[RaftModding ${ name }]: https://www.raftmodding.com/mods/${ link }\n`).join('')
     }
     
     
@@ -81,19 +87,21 @@ for await (const entry of walk(data,{
     log(markdown_path)
     const markdown = await readTextFile(markdown_path);
     
-    const converted = markdown.replace(/~\S+\n([^\n]+\n)*/gm,(match) => {
+    const converted = markdown.replace(/\<\!\-\- \> *\S+ *\-\-\>\n([^\n]+\n)*/gm,(match) => {
         
         const type = match
             .split('\n')[0]
             .trim()
-            .substring(1);
+            .substring(6)
+            .slice(0,-3)
+            .trim();
             
         let generated = `<!-- Unknown Insert Type : ${ type } -->\n`;
         
         if(type in generators)
             generated = generators[type]();
         
-        return `~${ type }\n${ generated }`;
+        return `<!-- > ${ type } -->\n${ generated }`;
     });
     
     writeTextFile(markdown_path,converted);
