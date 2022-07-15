@@ -59,63 +59,215 @@
     raftmodding : comfortable-inventory
     license : AGPLv3
     github : kohanis/raft-comfortable-inventory
-    
+
+
 -   name : GameMode
     raftmodding : gamemode
     license : ???
     gitlab : traxam/raft-gamemode-mod
-    
+
+
 -   name : Raftipelago
     raftmodding : raftipelago
     license : AGPLv3
     github : SunnyBat/Raftipelago
-    
+
+
 -   name : Harder Easy-Deaths
     raftmodding : harder-easy-death
     license : MIT
     github : GoryMoon/HarderEasyDeath
-    
+
+
 -   name : Raft is not shark food
     raftmodding : raft-is-not-shark-food
     license : ???
     gitlab : 3stadt/raftisnotsharkfood
-    
+
+
 -   name : Craft Cassettes
     raftmodding : craft-cassettes
     license : AGPLv3
     github : libkuza/raftmod_craftCassettes
+
 
 -   name : Inventory Tweaks
     raftmodding : inventory-tweaks
     license : AGPLv3
     github : thmsndk/Raft-InventoryTweaks
 
+
 -   name : Inventory Stack
     raftmodding : inventory-stack
     license : MIT
     github : dakotahawkins/Raft-Inventory-Stack
+
 
 -   name : Tikis are not made of metal!
     raftmodding : tikis-are-not-made-of-metal
     license : AGPLv3
     github : fourst4r/TikisAreNotMadeOfMetal
 
+
 -   name : Realistic Mod
     raftmodding : realistic-mod
     license : AGPLv3
     github : Lcraft-Developers/RealisticMod
+
 
 -   name : Where Is My Dishes
     raftmodding : where-is-my-dishes
     license : AGPLv3
     github : DeadByte42/Raft-WhereIsMyDishes
 
+
 -   name : SpeedyGonzales
     raftmodding : speedygonzales
     license : AGPLv3
     github : NajiShehab/SpeedyGonzales
 
+
 -   name : No Durability Plus
     raftmodding : no-durability-plus
     license : GPLv3
     github : ArmyOfOptimists/NoDurabilityPlus
+
+
+-   name : Minimap
+    raftmodding : minimap
+    license : AGPLv3
+    github : Minimap
+
+
+-   name : Craft Developer Items
+    raftmodding : craft-dev-items
+    license : AGPLv3
+    github : Looooooke/CraftDeveloperItems
+
+
+-   name : Filtered Nets
+    raftmodding : filterednets
+    license : MIT
+    github : janniksam/RaftMod.FilteredNets
+
+
+-   name : Craftable Explosive Goo
+    raftmodding : craftableexplosivegoo
+    license : AGPLv3
+    github : Looooooke/CraftableExplosiveGoo
+
+
+-   name : Auto Recipe Redux
+    raftmodding : auto-recipe-redux
+    license : MIT
+    github : burnedram/raftmod-autorecipe
+
+
+-   name : Water Wheels
+    raftmodding : waterwheel
+    license : ???
+    github : made-by-traxam/raft-waterwheel-mod
+
+
+-   name : Raft MMO
+    raftmodding : raftmmo
+    license : MIT
+    github : maxvollmer/RaftMMO
+
+
+-   name : Custom Tool Speed
+    raftmodding : customtoolspeed
+    license : ???
+    gitlab : traxam/raft-customtoolspeed-mod
+
+
+-   name : Inventory Before Hotbar
+    raftmodding : inventory-before-hotbar
+    license : AGPLv3
+    github : dcsobral/raft-inventory-before-hotbar
+
+
+-   name : Foundation Count
+    raftmodding : foundationcount
+    license : AGPLv3
+    github : dcsobral/FoundationCount
+
+
+-   name : Fish Seated
+    raftmodding : fish-seated
+    license : AGPLv3
+    github : dcsobral/fishSeated
+
+
+-   name : Old World Radio
+    raftmodding : old-world-radio
+    license : MIT
+    github : 1bitgodot/Raft_OldWorldRadio
+
+
+-   name : Name Your Shark
+    raftmodding : name-your-shark
+    license : MIT
+    github : Dinnerbone/name-your-shark
+
+
+-   name : Almost No Durability
+    raftmodding : almost-no-durability
+    license : AGPLv3
+    github : Felix-Staud/raft-mods/tree/main/almost-no-durability
+
+
+-   name : Raft Cost
+    raftmodding : raft-cost
+    license : AGPLv3
+    github : romaindurand/raft-cost
+
+
+-   name : Sort Inventory
+    raftmodding : sortinventory
+    license : MIT
+    github : made-by-traxam/RaftModSortInventory
+
+
+-   name : Lantern Shadows
+    raftmodding : lantern-shadows
+    license : MIT
+    github : peettee/Lantern-Shadows
+
+
+-   name : MultiBind
+    raftmodding : multi-bind
+    license : ???
+    github : Aidanamite/MultiBind
+
+
+-   name : Preset Commands
+    raftmodding : preset-commands
+    license : ???
+    github : Aidanamite/presetCommands
+
+
+-   name : Augmented Items
+    raftmodding : augmented-items
+    license : AGPLv3
+    gitlab : yunjang/augmented-items
+
+
+-   name : 'Trees Drops Seeds: Reanimated'
+    raftmodding : trees-drops-seeds-reanimated
+    license : AGPLv3
+    github : Azzmurr/raft-mods/tree/master/trees-drops-seeds-reanimated
+
+
+-   name : Antenna Anywhere
+    raftmodding : antenna-anywhere
+    license : MIT
+    github : KevoSoftworks/AntennaAnywhere
+
+
+-   name : Ctrl Shift Move
+    raftmodding : ctrl-shift-move
+    license : AGPLv3
+    gitlab : yunjang/ctrl-shift-move
+
+
