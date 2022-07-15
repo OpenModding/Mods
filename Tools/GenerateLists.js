@@ -65,15 +65,15 @@ for await (const entry of walk(data,{
     }
     
     function generateGitHub(){
-        return githubs.map(({ name , link }) => `[GitHub ${ name }]: ${ link }\n`).join('')
+        return githubs.map(({ name , link }) => `[GitHub ${ name }]: https://GitHub.com/${ link }\n`).join('')
     }
     
     function generateGitLab(){
-        return githubs.map(({ name , link }) => `[GitLab ${ name }]: ${ link }\n`).join('')
+        return githubs.map(({ name , link }) => `[GitLab ${ name }]: https://GitLab.com/${ link }\n`).join('')
     }
     
     function generateRaftModding(){
-        return githubs.map(({ name , link }) => `[RaftModding ${ name }]: ${ link }\n`).join('')
+        return githubs.map(({ name , link }) => `[RaftModding ${ name }]: https://www.raftmodding.com/mods/${ link }\n`).join('')
     }
     
     
