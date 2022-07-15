@@ -54,3 +54,68 @@
     license : AGPLv3
     github : FZ-Applications/raft-lantern-physics-mod
     
+    
+-   name : Comfortable Inventory
+    raftmodding : comfortable-inventory
+    license : AGPLv3
+    github : kohanis/raft-comfortable-inventory
+    
+-   name : GameMode
+    raftmodding : gamemode
+    license : ???
+    gitlab : traxam/raft-gamemode-mod
+    
+-   name : Raftipelago
+    raftmodding : raftipelago
+    license : AGPLv3
+    github : SunnyBat/Raftipelago
+    
+-   name : Harder Easy-Deaths
+    raftmodding : harder-easy-death
+    license : MIT
+    github : GoryMoon/HarderEasyDeath
+    
+-   name : Raft is not shark food
+    raftmodding : raft-is-not-shark-food
+    license : ???
+    gitlab : 3stadt/raftisnotsharkfood
+    
+-   name : Craft Cassettes
+    raftmodding : craft-cassettes
+    license : AGPLv3
+    github : libkuza/raftmod_craftCassettes
+
+-   name : Inventory Tweaks
+    raftmodding : inventory-tweaks
+    license : AGPLv3
+    github : thmsndk/Raft-InventoryTweaks
+
+-   name : Inventory Stack
+    raftmodding : inventory-stack
+    license : MIT
+    github : dakotahawkins/Raft-Inventory-Stack
+
+-   name : Tikis are not made of metal!
+    raftmodding : tikis-are-not-made-of-metal
+    license : AGPLv3
+    github : fourst4r/TikisAreNotMadeOfMetal
+
+-   name : Realistic Mod
+    raftmodding : realistic-mod
+    license : AGPLv3
+    github : Lcraft-Developers/RealisticMod
+
+-   name : Where Is My Dishes
+    raftmodding : where-is-my-dishes
+    license : AGPLv3
+    github : DeadByte42/Raft-WhereIsMyDishes
+
+-   name : SpeedyGonzales
+    raftmodding : speedygonzales
+    license : AGPLv3
+    github : NajiShehab/SpeedyGonzales
+
+-   name : No Durability Plus
+    raftmodding : no-durability-plus
+    license : GPLv3
+    github : ArmyOfOptimists/NoDurabilityPlus
