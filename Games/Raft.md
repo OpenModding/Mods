@@ -1,13 +1,12 @@
 
-# Raft Mods
+<div align = center>
 
-*Open source mods for **[Raft]**.*
-
+[<img
+  src = '../Resources/Logos/Raft.png'
+  height = 300
+/>][Raft]
+  
 <br>
-<br>
-
-## Mods
-
 <br>
 
 <!-- > Table -->
@@ -77,6 +76,8 @@
 | `Recycle Your Metal` | [![Button GitHub]][GitHub Recycle Your Metal] | [![Button RaftModding]][RaftModding Recycle Your Metal] | <kbd>  ???  </kbd>
 | `DevTools` | [![Button GitLab]][GitLab DevTools] | [![Button RaftModding]][RaftModding DevTools] | <kbd>  ???  </kbd>
 
+  
+</div>
 
 <br>
 
@@ -84,6 +85,16 @@
 <!----------------------------------------------------------------------------->
 
 [Raft]: https://raft-game.com/
+
+
+<!---------------------------------[ Buttons ]--------------------------------->
+
+[Button RaftModding]: https://img.shields.io/badge/RaftModding-3498db?style=for-the-badge&logoColor=white&logo=Wireshark
+[Button GitHub]: https://img.shields.io/badge/GitHub-222222?style=for-the-badge&logoColor=white&logo=GitHub
+[Button GitLab]: https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logoColor=white&logo=GitLab
+
+
+<!----------------------------------[ Links ]---------------------------------->
 
 <!-- > GitHub -->
 [GitHub Health Setter]: https://GitHub.com/derfuxde/healthsetter
@@ -219,10 +230,3 @@
 [RaftModding Recycle Your Metal]: https://www.raftmodding.com/mods/recycle-your-metal
 [RaftModding DevTools]: https://www.raftmodding.com/mods/devtools
 
-
-
-<!---------------------------------[ Buttons ]--------------------------------->
-
-[Button RaftModding]: https://img.shields.io/badge/RaftModding-3498db?style=for-the-badge&logoColor=white&logo=Wireshark
-[Button GitHub]: https://img.shields.io/badge/GitHub-222222?style=for-the-badge&logoColor=white&logo=GitHub
-[Button GitLab]: https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logoColor=white&logo=GitLab
