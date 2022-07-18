@@ -115,7 +115,7 @@
 [GitHub Where Is My Dishes]: https://GitHub.com/DeadByte42/Raft-WhereIsMyDishes
 [GitHub SpeedyGonzales]: https://GitHub.com/NajiShehab/SpeedyGonzales
 [GitHub No Durability Plus]: https://GitHub.com/ArmyOfOptimists/NoDurabilityPlus
-[GitHub Minimap]: https://GitHub.com/Minimap
+[GitHub Minimap]: https://GitHub.com/Whitebrim/Minimap
 [GitHub Craft Developer Items]: https://GitHub.com/Looooooke/CraftDeveloperItems
 [GitHub Filtered Nets]: https://GitHub.com/janniksam/RaftMod.FilteredNets
 [GitHub Craftable Explosive Goo]: https://GitHub.com/Looooooke/CraftableExplosiveGoo
