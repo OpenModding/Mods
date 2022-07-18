@@ -102,7 +102,7 @@
 [GitHub Custom Moving Speed]: https://GitHub.com/KenjieDec/CustomMovingSpeed
 [GitHub Swim Sprint]: https://GitHub.com/KenjieDec/SwimSprint
 [GitHub Quick Stack Inventory]: https://GitHub.com/MahmoudOkasha17/QuickStackInventory
-[GitHub Alternate Recipes]: https://GitHub.com/MahmoudOkasha17/QuickStackInventory
+[GitHub Alternate Recipes]: https://GitHub.com/Phantom139/RaftAlternateRecipes
 [GitHub Lantern Physics]: https://GitHub.com/FZ-Applications/raft-lantern-physics-mod
 [GitHub Comfortable Inventory]: https://GitHub.com/kohanis/raft-comfortable-inventory
 [GitHub Raftipelago]: https://GitHub.com/SunnyBat/Raftipelago
