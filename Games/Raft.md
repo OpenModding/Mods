@@ -20,7 +20,7 @@
 | `Augmented Equipment` | [![Button GitLab]][GitLab Augmented Equipment] | [![Button RaftModding]][RaftModding Augmented Equipment] | <kbd>  ???  </kbd>
 | `Quick Stack Inventory` | [![Button GitHub]][GitHub Quick Stack Inventory] | [![Button RaftModding]][RaftModding Quick Stack Inventory] | <kbd>  AGPLv3  </kbd>
 | `Alternate Recipes` | [![Button GitHub]][GitHub Alternate Recipes] | [![Button RaftModding]][RaftModding Alternate Recipes] | <kbd>  AGPLv3  </kbd>
-| `Quick Stack Inventory` | [![Button GitHub]][GitHub Quick Stack Inventory] | [![Button RaftModding]][RaftModding Quick Stack Inventory] | <kbd>  AGPLv3  </kbd>
+| `Lantern Physics` | [![Button GitHub]][GitHub Lantern Physics] | [![Button RaftModding]][RaftModding Lantern Physics] | <kbd>  AGPLv3  </kbd>
 | `Comfortable Inventory` | [![Button GitHub]][GitHub Comfortable Inventory] | [![Button RaftModding]][RaftModding Comfortable Inventory] | <kbd>  AGPLv3  </kbd>
 | `GameMode` | [![Button GitLab]][GitLab GameMode] | [![Button RaftModding]][RaftModding GameMode] | <kbd>  ???  </kbd>
 | `Raftipelago` | [![Button GitHub]][GitHub Raftipelago] | [![Button RaftModding]][RaftModding Raftipelago] | <kbd>  AGPLv3  </kbd>
@@ -92,7 +92,7 @@
 [GitHub Swim Sprint]: https://GitHub.com/KenjieDec/SwimSprint
 [GitHub Quick Stack Inventory]: https://GitHub.com/MahmoudOkasha17/QuickStackInventory
 [GitHub Alternate Recipes]: https://GitHub.com/MahmoudOkasha17/QuickStackInventory
-[GitHub Quick Stack Inventory]: https://GitHub.com/FZ-Applications/raft-lantern-physics-mod
+[GitHub Lantern Physics]: https://GitHub.com/FZ-Applications/raft-lantern-physics-mod
 [GitHub Comfortable Inventory]: https://GitHub.com/kohanis/raft-comfortable-inventory
 [GitHub Raftipelago]: https://GitHub.com/SunnyBat/Raftipelago
 [GitHub Harder Easy-Deaths]: https://GitHub.com/GoryMoon/HarderEasyDeath
@@ -162,7 +162,7 @@
 [RaftModding Augmented Equipment]: https://www.raftmodding.com/mods/augmented-equipment
 [RaftModding Quick Stack Inventory]: https://www.raftmodding.com/mods/quick-stack-inventory
 [RaftModding Alternate Recipes]: https://www.raftmodding.com/mods/alternate-recipes
-[RaftModding Quick Stack Inventory]: https://www.raftmodding.com/mods/lantern-physics
+[RaftModding Lantern Physics]: https://www.raftmodding.com/mods/lantern-physics
 [RaftModding Comfortable Inventory]: https://www.raftmodding.com/mods/comfortable-inventory
 [RaftModding GameMode]: https://www.raftmodding.com/mods/gamemode
 [RaftModding Raftipelago]: https://www.raftmodding.com/mods/raftipelago
