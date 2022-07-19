@@ -60,7 +60,7 @@
 | `Craft From Storage` | [![Button GitHub]][GitHub Craft From Storage] | [![Button RaftModding]][RaftModding Craft From Storage] | <kbd>  MIT  </kbd>
 | `BetterBowl` | [![Button GitLab]][GitLab BetterBowl] | [![Button RaftModding]][RaftModding BetterBowl] | <kbd>  AGPLv3  </kbd>
 | `Only Night` | [![Button GitLab]][GitLab Only Night] | [![Button RaftModding]][RaftModding Only Night] | <kbd>  ???  </kbd>
-| `Custom Weapon Damage` | [![Button GitHub]][GitHub Custom Weapon Damage] | [![Button RaftModding]][RaftModding Custom Weapon Damage] | <kbd>  ???  </kbd>
+| `Custom Weapon Damage` | [![Button GitLab]][GitLab Custom Weapon Damage] | [![Button RaftModding]][RaftModding Custom Weapon Damage] | <kbd>  ???  </kbd>
 | `Custom Growth Speed` | [![Button GitHub]][GitHub Custom Growth Speed] | [![Button RaftModding]][RaftModding Custom Growth Speed] | <kbd>  ???  </kbd>
 | `Utility Craft +` | [![Button GitHub]][GitHub Utility Craft +] | [![Button RaftModding]][RaftModding Utility Craft +] | <kbd>  ???  </kbd>
 | `Pause Mod` | [![Button GitHub]][GitHub Pause Mod] | [![Button RaftModding]][RaftModding Pause Mod] | <kbd>  GPLv3  </kbd>
@@ -137,7 +137,6 @@
 [GitHub Antenna Anywhere]: https://GitHub.com/KevoSoftworks/AntennaAnywhere
 [GitHub Ignore Build Collision]: https://GitHub.com/soggylithe/IgnoreBuildCollision
 [GitHub Craft From Storage]: https://GitHub.com/Azzmurr/raft-mods/tree/master/craft-from-storage
-[GitHub Custom Weapon Damage]: https://GitHub.com/traxam/raft-customweapondamage-mod
 [GitHub Custom Growth Speed]: https://GitHub.com/traxam/raft-customgrowthspeed-mod
 [GitHub Utility Craft +]: https://GitHub.com/SWiRaki/UtilCraftPlus
 [GitHub Pause Mod]: https://GitHub.com/Echo343/PauseMod
@@ -162,6 +161,7 @@
 [GitLab Ctrl Shift Move]: https://GitLab.com/yunjang/ctrl-shift-move
 [GitLab BetterBowl]: https://GitLab.com/traxam/raft-betterbowl-mod
 [GitLab Only Night]: https://GitLab.com/traxam/raft-onlynight-mod
+[GitLab Custom Weapon Damage]: https://GitLab.com/traxam/raft-customweapondamage-mod
 [GitLab DevTools]: https://GitLab.com/traxam/raft-devtoolsmod
 
 
