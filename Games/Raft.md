@@ -12,6 +12,7 @@
 <!-- > Table -->
 | Mod | Repository | RaftModding | License
 |:---:|:------:|:-----------:|:-------:
+| `Mod Updater` | [![Button GitHub]][GitHub Mod Updater] | [![Button RaftModding]][RaftModding Mod Updater] | <kbd>  AGPLv3  </kbd>
 | `Health Setter` | [![Button GitHub]][GitHub Health Setter] | [![Button RaftModding]][RaftModding Health Setter] | <kbd>  AGPLv3  </kbd>
 | `Bulk Crafting` | [![Button GitHub]][GitHub Bulk Crafting] | [![Button RaftModding]][RaftModding Bulk Crafting] | <kbd>  AGPLv3  </kbd>
 | `Custom Moving Speed` | [![Button GitHub]][GitHub Custom Moving Speed] | [![Button RaftModding]][RaftModding Custom Moving Speed] | <kbd>  AGPLv3  </kbd>
@@ -97,6 +98,7 @@
 <!----------------------------------[ Links ]---------------------------------->
 
 <!-- > GitHub -->
+[GitHub Mod Updater]: https://GitHub.com/FranzFischer78/ModUpdater
 [GitHub Health Setter]: https://GitHub.com/derfuxde/healthsetter
 [GitHub Bulk Crafting]: https://GitHub.com/thmsndk/Raft-BulkCrafting
 [GitHub Custom Moving Speed]: https://GitHub.com/KenjieDec/CustomMovingSpeed
@@ -166,6 +168,7 @@
 
 
 <!-- > RaftModding -->
+[RaftModding Mod Updater]: https://www.raftmodding.com/mods/modupdater
 [RaftModding Health Setter]: https://www.raftmodding.com/mods/health-setter
 [RaftModding Bulk Crafting]: https://www.raftmodding.com/mods/bulk-crafting
 [RaftModding Custom Moving Speed]: https://www.raftmodding.com/mods/custommovingspeed

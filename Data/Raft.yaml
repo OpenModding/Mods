@@ -1,4 +1,10 @@
 
+-   name : Mod Updater
+    raftmodding : modupdater
+    license : AGPLv3
+    github : FranzFischer78/ModUpdater
+
+
 -   name : Health Setter
     
     raftmodding : health-setter
